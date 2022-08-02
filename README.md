@@ -1,4 +1,4 @@
-# Spring email simples |SMTP GMAIL
+# Spring email simples | SMTP GMAIL
 ![image](https://user-images.githubusercontent.com/74054701/147880935-fae18e2e-4ab7-4cef-9a98-94fecb05b366.png)
 
 
